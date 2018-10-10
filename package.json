@@ -1,0 +1,17 @@
+{
+  "name": "http-request-logging",
+  "version": "0.0.1",
+  "description": "Test server to log incoming requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacek Olszewski<jacek.olszewski@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.1"
+  }
+}
